@@ -18,7 +18,7 @@ Para recrear el ambiente en el que fue intalado:
 - (No guardar para futuros proyectos)
 
 
-Para instalarlos usar el comando
+Para instalar lo necesario usar el comando:
 
 ```
 npm i axios bootstrap sweetalert2 @fontawesome/fontawesome-free
